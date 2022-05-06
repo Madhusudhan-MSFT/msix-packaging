@@ -8,6 +8,33 @@
           "commitHash": "1a825d24fa322a5fe721624b2ed7a18b6de9b48a"
         }
       }
+    },
+    {
+      "component": {
+        "type": "git",
+        "git": {
+          "repositoryUrl": "https://github.com/madler/zlib",
+          "commitHash": "cacf7f1d4e3d44d871b605da3b647f07d718623f"
+        }
+      }
+    },
+    {
+      "component": {
+        "type": "git",
+        "git": {
+          "repositoryUrl": "https://github.com/apache/xerces-c",
+          "commitHash": "9ac2984508eff312585b86b2a89850a439b5650b"
+        }
+      }
+    },
+    {
+      "component": {
+        "type": "git",
+        "git": {
+          "repositoryUrl": "https://github.com/openssl/openssl",
+          "commitHash": "52c587d60be67c337364b830dd3fdc15404a2f04"
+        }
+      }
     }
   ]
 }
